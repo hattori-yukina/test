@@ -1,0 +1,7 @@
+@use "global" as *;
+.test {
+  background-color: red;
+  font-size: rem(32);
+  border: 1px solid black;
+  // 罫線は1pxにしている
+}
